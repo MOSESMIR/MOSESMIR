@@ -1,30 +1,30 @@
+<h1>Hi, I'm Miracle ! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiasts</a>
+  <h4>👋 I am passionate student with a growing interest in the world of cybersecurity. I'm constantly learning and exploring new ways to secure digital landscapes and protect 
+  against cyber threats. 
+  🎓 Education: Currently pursuing a certifcate with a focus on cybersecurity at Correlation One .</h4>
+  
+  
+   <h2>👨‍💻  My Cybersecurity  Projects:</h2>
 
-Student | Cybersecurity Enthusiast |
-👋 Hello! I'm Miracle, a passionate student with a growing interest in the world of cybersecurity. I'm constantly learning and exploring new ways to secure digital landscapes and protect against cyber threats. Here's a bit about me:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-🎓 Education: Currently pursuing a Certificate  with a focus on cybersecurity at Correlation ONE.
 
-🔐 Cybersecurity Skills:
 
-💻 Proficient in Linux OS, Wireshark, and Metasploit.
-📡 Familiar with network security fundamentals.
-🔒 Learning ethical hacking and penetration testing techniques.
-🌐 Interested in web application security and OWASP Top Ten vulnerabilities.
-🌟 GitHub Projects:
 
-🛡️ Blue Team Labs:  project to develop skills in security investigations and challenges covering; Incident Response.
-📚 MyCyberLibrary: A collection of resources and notes on cybersecurity topics.
-🔍 Currently Exploring:
 
-🔐 Security certifications like CompTIA Security+.
-🌐 Threat modeling and risk assessment techniques.
-📊 Data privacy and compliance (GDPR, HIPAA, etc.).
-🚀 Future Goals:
 
-🌐 Contribute to open-source cybersecurity projects.
-🏆 Obtain relevant certifications to boost my knowledge and career prospects.
-🌐 Collaborate with peers on research or capture the flag (CTF) competitions.
-📧 Contact: Feel free to connect with me here on GitHub or reach out via email at Miracles.msm@gmail,com I'm always open to learning and networking with fellow cybersecurity enthusiasts!
-
-🔒 Stay secure, stay curious! 🌐💻🛡️
 
